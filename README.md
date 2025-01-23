@@ -11,9 +11,7 @@ Navigation buttons for:
 1. Patients Demographic Dashboard
 2. Hospital Operations Dashboard
 3. Insurance and Payments Dashboard
-   
-<img width="800" alt="Home Page" src="https://github.com/user-attachments/assets/2731f8c0-6b7c-4e11-b8f2-7236055c81c9" />
-
+ <img width="800" alt="Home Page" src="https://github.com/user-attachments/assets/46285311-2884-491d-81bf-7e3fa4609235" />
 
 ## 2. Patient Demographics Dashboard
 Purpose: Analyze patient demographics for better understanding of the patient base.
@@ -29,8 +27,7 @@ Purpose: Analyze patient demographics for better understanding of the patient ba
 2. Pie Chart: City-wise patient distribution.
 3. Line Chart: Total patients by year.
 4. Bar Chart: Number of patients by age group.
-
-<img width="800" alt="Patient Records" src="https://github.com/user-attachments/assets/34984269-cad9-4c15-a831-6da648872f9b" />
+<img width="800" alt="Patients Dashboard" src="https://github.com/user-attachments/assets/b8992041-9a0c-428c-adae-a85dafc2eaf4" />
 
 
 ## 3. Hospital Operations Dashboard
@@ -47,8 +44,8 @@ Purpose: Provide an operational overview of hospital activities.
 2. Donut Chart: Sum of insurance percentage by encounter class.
 3. Line Chart: Monthly encounters.
 4. Bar Chart: Number of encounters by type.
+<img width="800" alt="Hospital Operations Dashboard" src="https://github.com/user-attachments/assets/f5523d86-75bd-4ec3-830b-fc95fb43748d" />
 
-<img width="800" alt="Hospital Operations" src="https://github.com/user-attachments/assets/a81da748-d4db-470a-9edc-f8e859fd457a" />
 
 ## 4 Insurance & Payments Dashboard
 Purpose: Provide an Hospital Operations and Payements details.
@@ -64,6 +61,7 @@ Purpose: Provide an Hospital Operations and Payements details.
 2. Bar Chart: Total claim costs by payer (e.g., Medicare, Medicaid).
 3. Line & Bar Chart: Payer coverage and total claim costs by year.
 4, Line Chart: Procedures covered by insurance over the years.
+<img width="800" alt="Insurance   Payments Dashboard" src="https://github.com/user-attachments/assets/1a975ae6-c575-4696-b71b-119adb80af5b" />
 
-<img width="800" alt="Insurance   Claim Dashboard" src="https://github.com/user-attachments/assets/7329cee7-3c3b-4249-b907-2fd215cfe13d" />
+
 
