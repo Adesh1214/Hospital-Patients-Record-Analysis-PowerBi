@@ -60,7 +60,7 @@ Purpose: Provide an Hospital Operations and Payements details.
 1. KPIs: Total Payers, Procedures Covered, Highest Claim, and Payer with the Most Coverage.
 2. Bar Chart: Total claim costs by payer (e.g., Medicare, Medicaid).
 3. Line & Bar Chart: Payer coverage and total claim costs by year.
-4, Line Chart: Procedures covered by insurance over the years.
+4. Line Chart: Procedures covered by insurance over the years.
 <img width="800" alt="Insurance   Payments Dashboard" src="https://github.com/user-attachments/assets/1a975ae6-c575-4696-b71b-119adb80af5b" />
 
 
